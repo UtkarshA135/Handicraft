@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147281538132",
+    "firebase_url": "https://cottageapp-f33fe.firebaseio.com",
+    "project_id": "cottageapp-f33fe",
+    "storage_bucket": "cottageapp-f33fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147281538132:android:a8b88092d4afe2d66a11c1",
+        "android_client_info": {
+          "package_name": "com.example.cottage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147281538132-rp9ldi1sijr8kd536rbdjuijhs08spm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cottage_app",
+            "certificate_hash": "65a5da71b40800ef93720aa44834bd0b2623e0e6"
+          }
+        },
+        {
+          "client_id": "147281538132-jm9goplu06omlful3iptkppitkpd4455.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zrUjvSH6jaMuPMsEdewYEAxEt1BrNhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147281538132-jm9goplu06omlful3iptkppitkpd4455.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
